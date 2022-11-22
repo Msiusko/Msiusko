@@ -1,6 +1,6 @@
 # intro
 
-## Hi there, I'm Mykola 👋
+## Hi there, I'm Mykola 🇺🇦 
 [![Twitter Follow](https://img.shields.io/twitter/follow/nicksvyaznoy?style=social)](https://twitter.com/intent/follow?screen_name=nicksvyaznoy)
 
 <!--
@@ -9,9 +9,7 @@
 Here are some ideas to get you started:
 -->
 
-- 💻 Working as a smart contract engineer at  
-- 🌱 I’m currently Curing surveillance capitalism 💨
-- 💬 Ask me about anything!
+- 💻 Working as a Web3 fixer > helping web3-companies mature from the chaos state (using marketing, BD and operations toolkit). 
+- 🌱 I’m Curing surveillance capitalism 💨 (after 10 years of attention economy delivery serving from Coca-Cola to Mastercard)
 - 📫 How to reach me: [Telegram me](link:https://t.me/svyaznoy911) or [Twitter DMs](https://twitter.com/nicksvyaznoy)!
-- 😄 Pronouns: he/him 🕺
-- ⚡ Fun facts: Karagarga & Soulseek user; art cinema addict from Teshigahara to Amos Vogel
+- ⚡ Art-centric: Karagarga & Soulseek user; art cinema addict from Teshigahara to Amos Vogel; The Wire magazine subscriber.
