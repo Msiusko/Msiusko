@@ -9,10 +9,10 @@
 Here are some ideas to get you started:
 -->
 
-- 💻 Working as a Web3 fixer > helping web3-companies mature from the chaos state (using marketing, BD and operations toolkit). 
-- 🌱 I’m Curing surveillance capitalism (after 10 years of attention economy delivery serving from Coca-Cola to Mastercard)
-- 📫 Reach me: [Telegram](https://t.me/svyaznoy911) or [Twitter DMs](https://twitter.com/nicksvyaznoy)!
-- ⚡ Art-centric: Karagarga & Soulseek user; art cinema addict from Teshigahara to Amos Vogel; The Wire magazine subscriber; used to be a DJ, run a label, host radio-shows, work as a TimeOut music editor & so on. One day I need to update my artistic website [K1983](http://k1983.art)
+- 💻 **Work**: As a Web3 fixer > helping web3-companies mature from the chaos state (using marketing, BD and operations toolkit). 
+- 🌱 **Heal**: I’m Curing surveillance capitalism (after 10 years of attention economy delivery serving from Coca-Cola to Mastercard)
+- 📫 **Touch**: [Telegram](https://t.me/svyaznoy911) or [Twitter DMs](https://twitter.com/nicksvyaznoy)!
+- ⚡ **Create**: Karagarga & Soulseek user; art cinema addict from Teshigahara to Amos Vogel; The Wire magazine subscriber; used to be a DJ, run a label, host radio-shows, work as a TimeOut music editor & so on. One day I need to update my artistic website [K1983](http://k1983.art)
 
 **I believe that there's no decentralisation without an inclusion & diversity.**
 
