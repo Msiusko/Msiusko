@@ -13,3 +13,8 @@ Here are some ideas to get you started:
 - 🌱 I’m Curing surveillance capitalism 💨 (after 10 years of attention economy delivery serving from Coca-Cola to Mastercard)
 - 📫 How to reach me: [Telegram me](link:https://t.me/svyaznoy911) or [Twitter DMs](https://twitter.com/nicksvyaznoy)!
 - ⚡ Art-centric: Karagarga & Soulseek user; art cinema addict from Teshigahara to Amos Vogel; The Wire magazine subscriber.
+
+**I believe that there's no decentralisation without an inclusion & diversity.**
+
+_Russia is a terrorist state._
+**Stand with Ukraine** 🇺🇦
