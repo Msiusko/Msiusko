@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 -->
-
+- ✨ Privacy is a human right & fight: facilitating [Web3Privacy now](https://github.com/Msiusko/web3privacy) & writing about Web3 privacy [Mirror] (https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073) 
 - 💻 **Work**: As a Web3 fixer > helping web3-companies mature from the chaotic state (marketing, BD and operations toolkit). 
 - 🌱 **Heal**: I’m Curing surveillance capitalism (after 10 years of attention economy delivery serving from Coca-Cola to Mastercard)
 - 📫 **Touch**: [Telegram](https://t.me/svyaznoy911) or [Twitter DMs](https://twitter.com/nicksvyaznoy)!
