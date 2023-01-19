@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ **Create**: Karagarga & Soulseek p2p-contributor; art cinema addict from Teshigahara to Amos Vogel (I can watch Lav Diaz 8-hour long movie with ease); [The Wire magazine](https://www.thewire.co.uk/home/) subscriber; used to be a [DJ](https://soundcloud.com/svyaznoy/light)), run a label, host radio-shows, work as a TimeOut music editor & so on. One day I need to update my artistic website [K1983](http://k1983.art)
 
 **Support independent research on the Web3 privacy**
-**ETH**: 0x2465193c113E524C704413b7af6A5517bF5d2BEE
-**USDT** (TRC20): TD6DexUT71M24cUouCV22A1iKMWZmS4BU4
-**ZEC**: t1JXUewb165Jfxv8bFAvsDHWbTpoAAeqCY1
+- **ETH**: 0x2465193c113E524C704413b7af6A5517bF5d2BEE
+- **USDT** (TRC20): TD6DexUT71M24cUouCV22A1iKMWZmS4BU4
+- **ZEC**: t1JXUewb165Jfxv8bFAvsDHWbTpoAAeqCY1
 
 **I believe that there's no decentralisation without an inclusion & diversity.**
 
