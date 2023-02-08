@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Portfolio
 1. **note**: _it's missing 10 years in marketing agencies, 5 years of C-level experience. I was serving surveillence capitalism & no proud about it._
-2. Blockchain experience (2017 & countiung, with 1 year break for esports & ML): 
+2. **Blockchain experience** (2017 & countiung, with 1 year break for esports & ML): 
 - [Apla Blockchain](http://apla.network). **Role**: CMO. **Key team' results**: Land registry on blockchain for Indian gov, supply chain PoC for Huawei, hackathon for oil-companies, best SMB blockchain protocol in Dubai & innovation prize in Luxembourg.
 - [DEIP](http://deip.world). **Role**: Operations director, board member. **Key team' results**: company valuetion hit $50M, $5,3M investments from EPAM Systems to Bitcoin.com, mainnet launched, distributed team hit 70ppl, community from 0 to 100 000
 - Various protocols & dApps advisory: helped teams to fundraised 70K ETH in 2017, ship token to Binance in 2019, become a part of Telefonica accelerator in 2020 etc 
