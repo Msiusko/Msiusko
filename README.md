@@ -33,6 +33,14 @@ Articles
 - [Urge for the PEDApps - Privacy Enhanced Decentralised Applications](https://medium.com/@Svyazniy/urge-for-the-pedapps-privacy-enhanced-decentralised-applications-7efa980cdbb)
 - [Web3 privacy layers overview from embedded to total anonymity](https://medium.com/@Svyazniy/web3-privacy-layers-overview-from-embedded-to-total-anonymity-4ddf8e7c3b4d)
 
+Fun things
+- [#FreeAlex Web3 activism handbook talk @ ETH Brno](https://www.youtube.com/watch?v=oCvVKltmQgo)
+- [Interview to Cryprodealers (RU)](https://www.youtube.com/watch?v=CzIEyeI1Sus)
+- [The Esports Ads podcast + platform](https://www.youtube.com/watch?v=H5KOYV5DsfI)
+- [Darth Vader impersonation talk on digital marketing 2012, RU](https://www.youtube.com/watch?v=I5bx3UUthkY)
+- [Can tech make people happy talk? 2018,RU](https://www.youtube.com/live/XoYi_6LvMLs?feature=share&t=5116)
+- [My first ever public talk -> 2011, RU](https://www.youtube.com/watch?v=0B4qC8tmJoY)
+
 **Support independent research on the Web3 privacy**
 - **BTC**: 3Fk68ZcG9dFyXecr8qW1JM1195JHpUkD2A
 - **ETH**: 0x2465193c113E524C704413b7af6A5517bF5d2BEE
