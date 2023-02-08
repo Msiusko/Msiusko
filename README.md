@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 **Touch**: [Telegram](https://t.me/svyaznoy911) or [Twitter DMs](https://twitter.com/nicksvyaznoy)!
 - ⚡ **Create**: Karagarga & Soulseek p2p-contributor; art cinema addict from Teshigahara to Amos Vogel (I can watch Lav Diaz 8-hour long movie with ease); [The Wire magazine](https://www.thewire.co.uk/home/) subscriber; used to be a [DJ](https://soundcloud.com/svyaznoy/light)), run a label, host radio-shows, work as a TimeOut music editor & so on. One day I need to update my artistic website [K1983](http://k1983.art)
 
-Portfolio
+# Portfolio
 - **note**: _it's missing 10 years in marketing agencies, 5 years of C-level experience. I was serving surveillence capitalism & no proud about it._
 
 - [TheWeb3privacy now - the biggest database of privacy-enhancing solutions in web3](https://github.com/Msiusko/web3privacy/blob/main/README.md)
@@ -26,11 +26,11 @@ Portfolio
 - [Ongoing scoring modelling for privacy services](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Scoringmodel.md)
 - [Web3 privacy hiring & grants sheet](https://docs.google.com/spreadsheets/d/1dN6bIWyOh01Dl-y1iZh-1TASZxKUefD098BUALcnUb8/edit?usp=sharing)
 
-Reports
+# Reports
 - [Privacy market outlook in Web3](https://medium.com/@Svyazniy/privacy-market-outlook-in-web3-report-35a96c35b6ae) + [PDF](https://github.com/Msiusko/web3privacy/blob/main/Market%20overview/Privacy%20market%20outlook%20in%20Web3%20by%20Mykola%20Siusko%20(Jan%202023).pdf)
 - [Diversity in the web3: privacy market outlook](https://medium.com/@Svyazniy/diversity-in-the-web3-privacy-market-outlook-1a7ccefc872)
 
-Articles
+# Articles
 - [Zero-knowledge for everyone as ABC!](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/Ck0Sx--9QMQcSOQEHBYj8h2M8KLU-wz9YQvyybdTMN4)
 - [Privacy-Web3 market-fit: search of privacy sustainability](https://medium.com/@Svyazniy/privacy-web3-market-fit-search-of-privacy-sustainability-330c9c98f9df)
 - [Urge for the PEDApps - Privacy Enhanced Decentralised Applications](https://medium.com/@Svyazniy/urge-for-the-pedapps-privacy-enhanced-decentralised-applications-7efa980cdbb)
@@ -41,7 +41,7 @@ Articles
 - [Integrating blockchain in government: how it works, 2018](https://www.linkedin.com/pulse/integrating-blockchain-government-how-works-nikolay-syusko/)
 - [Current state of blockchain market, 2017](https://www.linkedin.com/pulse/current-state-blockchain-market-nikolay-syusko/)
 
-Fun things
+# Fun things
 - [#FreeAlex Web3 activism handbook talk @ ETH Brno](https://www.youtube.com/watch?v=oCvVKltmQgo)
 - [Interview to Cryprodealers (RU)](https://www.youtube.com/watch?v=CzIEyeI1Sus)
 - [The Esports Ads podcast + platform](https://www.youtube.com/watch?v=H5KOYV5DsfI)
