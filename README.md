@@ -14,6 +14,15 @@ Here are some ideas to get you started:
 - 📫 **Touch**: [Telegram](https://t.me/svyaznoy911) or [Twitter DMs](https://twitter.com/nicksvyaznoy)!
 - ⚡ **Create**: Karagarga & Soulseek p2p-contributor; art cinema addict from Teshigahara to Amos Vogel (I can watch Lav Diaz 8-hour long movie with ease); [The Wire magazine](https://www.thewire.co.uk/home/) subscriber; used to be a [DJ](https://soundcloud.com/svyaznoy/light)), run a label, host radio-shows, work as a TimeOut music editor & so on. One day I need to update my artistic website [K1983](http://k1983.art)
 
+Portfolio
+- [TheWeb3privacy now - the biggest database of privacy-enhancing solutions in web3](https://github.com/Msiusko/web3privacy/blob/main/README.md)
+- [Pagency - framework for privacy-solutions ideation](https://github.com/Msiusko/web3privacy/tree/main/Pagency)
+- [Privacy-centric use-cases database for builders](https://github.com/Msiusko/web3privacy/blob/main/Use-cases.md)
+- [ZK private projects' database](https://github.com/Msiusko/web3privacy/tree/main/ZKprivacylandscape)
+- [They won't have my data tool](https://github.com/Msiusko/web3privacy/tree/main/theywonthave)
+- [Analytical platform for scoring whenever private services are or not](https://github.com/Msiusko/web3privacy/tree/main/Web3privacynowplatform)
+- [Ongoing scoring modelling for privacy services](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Scoringmodel.md)
+
 Reports
 - [Privacy market outlook in Web3](https://medium.com/@Svyazniy/privacy-market-outlook-in-web3-report-35a96c35b6ae) + [PDF](https://github.com/Msiusko/web3privacy/blob/main/Market%20overview/Privacy%20market%20outlook%20in%20Web3%20by%20Mykola%20Siusko%20(Jan%202023).pdf)
 - [Diversity in the web3: privacy market outlook](https://medium.com/@Svyazniy/diversity-in-the-web3-privacy-market-outlook-1a7ccefc872)
@@ -23,7 +32,6 @@ Articles
 - [Privacy-Web3 market-fit: search of privacy sustainability](https://medium.com/@Svyazniy/privacy-web3-market-fit-search-of-privacy-sustainability-330c9c98f9df)
 - [Urge for the PEDApps - Privacy Enhanced Decentralised Applications](https://medium.com/@Svyazniy/urge-for-the-pedapps-privacy-enhanced-decentralised-applications-7efa980cdbb)
 - [Web3 privacy layers overview from embedded to total anonymity](https://medium.com/@Svyazniy/web3-privacy-layers-overview-from-embedded-to-total-anonymity-4ddf8e7c3b4d)
-- 
 
 **Support independent research on the Web3 privacy**
 - **BTC**: 3Fk68ZcG9dFyXecr8qW1JM1195JHpUkD2A
