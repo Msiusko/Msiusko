@@ -32,6 +32,11 @@ Articles
 - [Privacy-Web3 market-fit: search of privacy sustainability](https://medium.com/@Svyazniy/privacy-web3-market-fit-search-of-privacy-sustainability-330c9c98f9df)
 - [Urge for the PEDApps - Privacy Enhanced Decentralised Applications](https://medium.com/@Svyazniy/urge-for-the-pedapps-privacy-enhanced-decentralised-applications-7efa980cdbb)
 - [Web3 privacy layers overview from embedded to total anonymity](https://medium.com/@Svyazniy/web3-privacy-layers-overview-from-embedded-to-total-anonymity-4ddf8e7c3b4d)
+- [Unmetamask:UX will fix the Web3-trauma](https://www.linkedin.com/pulse/ux-fix-web3-trauma-nikolay-syusko/)
+- [Web3 problem-solving therapy: session #1](https://www.linkedin.com/pulse/web3-problem-solving-therapy-session-1-mykola-siusko/)
+- [Is there a chance for blockchain without Cryptocurrencies? 2018](https://www.linkedin.com/pulse/chance-blockchain-without-cryptocurrencies-nikolay-syusko/)
+- [Integrating blockchain in government: how it works, 2018](https://www.linkedin.com/pulse/integrating-blockchain-government-how-works-nikolay-syusko/)
+- [Current state of blockchain market, 2017](https://www.linkedin.com/pulse/current-state-blockchain-market-nikolay-syusko/)
 
 Fun things
 - [#FreeAlex Web3 activism handbook talk @ ETH Brno](https://www.youtube.com/watch?v=oCvVKltmQgo)
@@ -40,6 +45,7 @@ Fun things
 - [Darth Vader impersonation talk on digital marketing 2012, RU](https://www.youtube.com/watch?v=I5bx3UUthkY)
 - [Can tech make people happy talk? 2018,RU](https://www.youtube.com/live/XoYi_6LvMLs?feature=share&t=5116)
 - [My first ever public talk -> 2011, RU](https://www.youtube.com/watch?v=0B4qC8tmJoY)
+- [Apla blockchain deck, 2018](https://www.slideshare.net/NikolaySyusko/apla-blockchain)
 
 **Support independent research on the Web3 privacy**
 - **BTC**: 3Fk68ZcG9dFyXecr8qW1JM1195JHpUkD2A
