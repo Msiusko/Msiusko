@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - [DEIP](http://deip.world). **Role**: Operations director, board member. **Key team' results**: company valuetion hit $50M, $5,3M investments from EPAM Systems to Bitcoin.com, mainnet launched, distributed team hit 70ppl, community from 0 to 100 000
 - Various protocols & dApps advisory: helped teams to fundraised 70K ETH in 2017, ship token to Binance in 2019, become a part of Telefonica accelerator in 2020 etc 
 
+# Privacy-centric deliveries
+
 - [TheWeb3privacy now - the biggest database of privacy-enhancing solutions in web3](https://github.com/Msiusko/web3privacy/blob/main/README.md)
 - [Pagency - framework for privacy-solutions ideation](https://github.com/Msiusko/web3privacy/tree/main/Pagency)
 - [Privacy-centric use-cases database for builders](https://github.com/Msiusko/web3privacy/blob/main/Use-cases.md)
