@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ **Create**: Karagarga & Soulseek p2p-contributor; art cinema addict from Teshigahara to Amos Vogel (I can watch Lav Diaz 8-hour long movie with ease); [The Wire magazine](https://www.thewire.co.uk/home/) subscriber; used to be a [DJ](https://soundcloud.com/svyaznoy/light)), run a label, host radio-shows, work as a TimeOut music editor & so on. One day I need to update my artistic website [K1983](http://k1983.art)
 
 # Portfolio
-1. **note**: _it's missing 10 years in marketing agencies, 5 years of C-level experience. I was serving surveillence capitalism & no proud about it._
+1. **note**: _it's missing 10 years in marketing agencies, 5 years of C-level experience, all shiny marketing metrics, jury of key festivals, moderator of the key festivals, "oscar" in PR etc. I was serving surveillence capitalism & no proud about it._
 2. **Blockchain experience** (2017 & countiung, with 1 year break for esports & ML): 
 - [Apla Blockchain](http://apla.network). **Role**: CMO. **Key team' results**: Land registry on blockchain for Indian gov, supply chain PoC for Huawei, hackathon for oil-companies, best SMB blockchain protocol in Dubai & innovation prize in Luxembourg.
 - [DEIP](http://deip.world). **Role**: Operations director, board member. **Key team' results**: company valuetion hit $50M, $5,3M investments from EPAM Systems to Bitcoin.com, mainnet launched, distributed team hit 70ppl, community from 0 to 100 000
