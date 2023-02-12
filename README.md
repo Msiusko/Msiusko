@@ -68,3 +68,5 @@ Here are some ideas to get you started:
 
 _Russia is a terrorist state._
 **Stand with Ukraine** 🇺🇦
+
+![alt text](https://github.com/Msiusko/Msiusko/blob/main/Staticobjects/main.png?raw=true)
