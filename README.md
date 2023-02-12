@@ -8,6 +8,8 @@
 
 Here are some ideas to get you started:
 -->
+![alt text](https://github.com/Msiusko/Msiusko/blob/main/Staticobjects/1500x500-2.jpeg?raw=true)
+
 - ✨ Privacy is a human right & fight: facilitating [Web3Privacy now](https://github.com/Msiusko/web3privacy), making privacy-market [reports](https://medium.com/@Svyazniy/privacy-market-outlook-in-web3-report-35a96c35b6ae), writing about Web3 privacy [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073), helping to make [PrivacyETH](https://twitter.com/PrivacyETHconf) & preaching for PEDApps (Privacy enhanced decentralised apps).  
 - 💻 **Work**: As am Ethical Web3 marketer > help web3-companies mature from the chaotic state (marketing, BD and operations toolkit). 
 - 🌱 **Heal**: I’m Curing surveillance capitalism (after 10 years of attention economy delivery serving from Coca-Cola to Mastercard). Watch my #Free Alex Web3 activism speech from [ETH Brno](https://www.youtube.com/watch?v=oCvVKltmQgo)
